@@ -1,0 +1,13 @@
+{
+  "app": {
+    "url": "http://localhost:3000"
+  },
+  "linda": {
+    "url": "https://linda-server.herokuapp.com",
+    "space": "masuilab"
+  },
+  "where": "delta",
+  "arduino": {
+    "port": "/dev/tty.usbmodem441"
+  }
+}
